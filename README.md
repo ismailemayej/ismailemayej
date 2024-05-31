@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md Ismaile Hossain</h1>
 <h3 align="center">A passionate developer from Bangladesh</h3>
-[mern developer](https://github.com/ismailemayej/ismailemayej/blob/main/profile%20-%20Copy.png)
+
+<img src="https://github.com/ismailemayej/ismailemayej/blob/main/profile%20-%20Copy.png" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ismailemayej&label=Profile%20views&color=0e75b6&style=flat" alt="ismailemayej" /> </p>
 
