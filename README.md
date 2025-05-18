@@ -1,38 +1,100 @@
-
-
-<img src="https://github.com/ismailemayej/ismailemayej/blob/main/Untitled%20design%20(2).png" />
-<h1 align="center">Hi 👋, I'm Md Ismaile Hossain</h1>
-<h3 align="center">A passionate developer from Bangladesh</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ismailemayej&label=Profile%20views&color=0e75b6&style=flat" alt="ismailemayej" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ismailemayej" alt="ismailemayej" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/ismaile535" target="blank"><img src="https://img.shields.io/twitter/follow/ismaile535?logo=twitter&style=for-the-badge" alt="ismaile535" /></a> </p>
- <p style="color:blue;"> hi,i m Md Ismaile Hossain, call me mohammad ismaile.
-I am a dedicated technology enthusiast with three years of coding experience, deeply passionate about exploring and working with the latest technological advancements. My career vision is to innovate and excel in the tech industry, continuously learning and adapting to new technologies. With a strong foundation in coding and a commitment to ongoing professional development, I am eager to contribute to cutting-edge projects and drive technological progress.</p>
-
-- 🔭 I’m currently working on [WS Store](https://supplies-store-client.vercel.app/)
-
-- 🌱 I’m currently learning **Nextjs,React,TypeScript etc.**
-
-- 💬 Ask me about **react,nextjs,mongodb**
-
-- 📫 How to reach me **ismaile535@gmail.com**
-
-- ⚡ Fun fact **In am fat**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ismailemayej" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismailemayej" height="30" width="40" /></a>
-<a href="https://fb.com/ismailemoyaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ismailemoyaj" height="30" width="40" /></a>
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://github.com/ismailemayej/ismailemayej/blob/main/Untitled%20design%20(2).png" alt="banner" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<h1 align="center">👋 Hi, I'm Md Ismaile Hossain</h1>
+<h3 align="center">💻 MERN Stack Developer | Passionate about Technology | Lifelong Learner</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ismailemayej&show_icons=true&locale=en&layout=compact" alt="ismailemayej" /></p>
+<p align="center">
+  <a href="https://github.com/ismailemayej">
+    <img src="https://komarev.com/ghpvc/?username=ismailemayej&label=Profile+Views&color=blue&style=flat" alt="Profile Views"/>
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ismailemayej&show_icons=true&locale=en" alt="ismailemayej" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ismailemayej&" alt="ismailemayej" /></p>
+### 👨‍💻 About Me
+
+Hi, I'm **Md Ismaile Hossain**, but you can call me **Mohammad Ismaile**. I'm a self-motivated MERN Stack Developer from **Chandpur, Bangladesh**, with 3+ years of practical experience in web development.
+
+🚀 I'm deeply passionate about building full-stack applications, continuously learning modern technologies, and contributing to impactful digital solutions.
+
+---
+
+### 🔧 Tech Stack
+
+#### Languages & Frameworks
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-404D59?style=flat&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
+
+#### Tools & Platforms
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
+
+---
+
+### 📂 My Latest Project
+
+🔭 **WS Store** — A modern e-commerce platform.  
+🌐 [Live Site](https://supplies-store-client.vercel.app/)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ismailemayej&show_icons=true&theme=tokyonight" alt="Md Ismaile's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailemayej&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ismailemayej&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ismailemayej&theme=onedark" alt="Trophies" />
+</p>
+
+---
+
+### 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/ismailemayej" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"/></a>
+  <a href="https://fb.com/ismailemoyaj" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&style=for-the-badge" alt="Facebook"/></a>
+  <a href="https://twitter.com/ismaile535" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge" alt="Twitter"/></a>
+</p>
+
+📬 **Email:** ismaile535@gmail.com
+
+---
+
+### 💬 Fun Fact
+
+> “In the tech world, even a bug can teach you something. I love debugging—it’s like solving mini mysteries every day!”
+
+---
+
+> 🔥 _"Striving to become better every day, learning from failures and building impactful things!"_
+
