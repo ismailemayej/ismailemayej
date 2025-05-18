@@ -47,10 +47,15 @@ Hi, I'm **Md Ismaile Hossain**, but you can call me **Mohammad Ismaile**. I'm a 
 
 ---
 
-### 📂 My Latest Project
+### 📂 My Projects
 
-🔭 **WS Store** — A modern e-commerce platform.  
-🌐 [Live Site](https://supplies-store-client.vercel.app/)
+| Project | Description | Tech Stack | Live Links |
+|--------|-------------|------------|------------|
+| **WS Store** | A modern e-commerce platform for buying and selling supplies. | React, Next.js, Tailwind, MongoDB | [Live Site](https://supplies-store-client.vercel.app/) |
+| **Fatwa with AI** | AI-powered platform for delivering authentic Islamic guidance and fatwas. Includes secure auth and AI Q&A. | React, Next.js, Node.js, Express, MongoDB | [Live](https://fatwa-with-ai.vercel.app) • [Client](https://github.com/ismailemayej/ai-question-answer) • [Server](https://github.com/ismailemayej/fatwa_server) |
+| **Islamic Q&A Platform** | Repository of Islamic fatwas and searchable questions. Minimal UI and secure dashboards. | React, Next.js, Node.js, MongoDB | [Live](https://islamic-questions-ans.vercel.app) • [Client](https://github.com/ismailemayej/fatwa) |
+| **Relief Distribution** | Donation coordination platform with real-time data, blogs, and volunteering features. | React, Redux Toolkit, Framer Motion, Node.js, MongoDB | [Live](https://relief-distribution.netlify.app) • [Client](https://github.com/ismailemayej/Relief-Distribution-frontend) • [Server](https://github.com/ismailemayej/Relief-Distribution-backend) |
+| **Learn Quran Platform** | E-learning platform for Quran studies. Features audio lessons, responsive UI, and progress tracking. | React, Next.js, Node.js, MongoDB | [Live](https://learn-quran-roan.vercel.app) • [Client](https://github.com/ismailemayej/learn-quran) • [Server](https://github.com/ismailemayej/quran_learn_server) |
 
 ---
 
@@ -97,4 +102,3 @@ Hi, I'm **Md Ismaile Hossain**, but you can call me **Mohammad Ismaile**. I'm a 
 ---
 
 > 🔥 _"Striving to become better every day, learning from failures and building impactful things!"_
-
