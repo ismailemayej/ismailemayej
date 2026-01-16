@@ -54,12 +54,13 @@ I am a **Self-taught Full-Stack Developer** based in **Chandpur, Bangladesh**, w
 
 | Project | Key Features | Tech Stack | Quick Links |
 | :--- | :--- | :--- | :--- |
-| **Fatwa with AI** | AI-driven Q&A, Auth, Secure Dashboards | `Next.js` `AI` `Node` | [🌐 Live](https://fatwa-with-ai.vercel.app) |
-| **WS Store** | Real-time Inventory, Cart, Smooth UX | `React` `Redux` `MDB` | [🌐 Live](https://supplies-store-client.vercel.app/) |
-| **Relief Distribution** | Donation tracking, Blog, Volunteer management | `Framer` `Redux` `Express` | [🌐 Live](https://relief-distribution.netlify.app) |
-| **Learn Quran** | Audio lessons, Progress tracking, Responsive | `Next.js` `MongoDB` | [🌐 Live](https://learn-quran-roan.vercel.app) |
+| **Fatwa with AI** | AI-powered Islamic Q&A, Authentication, Secure User Dashboard | `Next.js` `AI` `Node.js` `MongoDB` | [🌐 Live](https://islamic-question-answer-ai.vercel.app) |
+| **Safe & Law Consultancy** | Service Listings, Client Interaction, Smooth & Responsive UI | `React` `Redux` `MDB UI Kit` | [🌐 Live](https://safelawconsultancy.vercel.app) |
+| **Firstlane Global Group** | Corporate Website, Blog System, Donation & Volunteer Management | `React` `Redux` `Express.js` `MongoDB` | [🌐 Live](http://firstlanegroup.com) |
+| **Personal Website Dashboard** | Audio Lessons, User Progress Tracking, Fully Responsive Dashboard | `Next.js` `MongoDB` | [🌐 Live](https://mizanur-rahman-azhari.vercel.app/dashboard) |
 
 </div>
+
 
 ---
 
